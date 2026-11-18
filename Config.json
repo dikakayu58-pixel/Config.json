@@ -1,3 +1,10 @@
 {
-  "base_url": "http://pubozil.satubangsa.my.id:2010"
+  "base_url": "http://mynzxi.miuntech.my.id:2176",
+  "firebase": {
+    "apiKey": "AIzaSyCImGY77mwPoNclBUdaMlk79__g9pk_ZeI",
+    "appId": "1:862205881789:android:f16d2cd0eb03795fbaf6d4",
+    "messagingSenderId": "862205881789",
+    "projectId": "x-spyder",
+    "storageBucket": "x-spyder.firebasestorage.app"
+  }
 }
